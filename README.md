@@ -1,6 +1,11 @@
 
 ### Olá! Eu sou o Thiago Ventura ✌️ ✌️
 
+<span align="center">
+  <img align="center" margin="2" src="https://github-profile-trophy.vercel.app/?username=Thiagooavs&margin-w=2&margin-h=15&theme=juicyfresh&no-frame=true">
+</span>
+<br><br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thia.gotavs/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAEt2P9sB6S8yrCUxZRpZj2mNd4aqsCoRzF8&keywords=thiago%20ventura&origin=RICH_QUERY_SUGGESTION&position=0&searchId=f7714a06-4f75-4091-bc9c-2e86439775e5&sid=aO.&spellCorrectionEnabled=false)
 
